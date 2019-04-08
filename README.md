@@ -14,6 +14,6 @@ $ touch config.py
 Your `config.py` file should look like this. Enter the relevant information.
 
 ```
-DISCORD_TOKEN = 'enter your discord bot token'
-CHANNEL_ID = 000000 # Should be the channel you want the bot to post in. Leave as int.
+DISCORD_TOKEN = 'MceONzXFPWXq-3nLx1YRUWmMJup1pMQZ'
+CHANNEL_ID = . Leave as int.
 ```
