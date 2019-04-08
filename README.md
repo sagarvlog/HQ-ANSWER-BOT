@@ -15,5 +15,5 @@ Your `config.py` file should look like this. Enter the relevant information.
 
 ```
 DISCORD_TOKEN = MceONzXFPWXq-3nLx1YRUWmMJup1pMQZ
-CHANNEL_ID = 561508191389876225. Leave as int.
+CHANNEL_ID = 561508191389876225.
 ```
